@@ -28,3 +28,4 @@ count := sb.Estimate()
 
 ##Todo:
 - [ ] Add Merge functionality
+- [ ] Add Serialization
